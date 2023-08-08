@@ -1,0 +1,5 @@
+.vscode
+frontend/node_modules
+venv
+web_resources
+practice
